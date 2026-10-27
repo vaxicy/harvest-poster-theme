@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Harvest Poster Theme",
+  "version": "1.0.0",
+  "description": "A vintage-print Halloween Chrome theme in brown ink, brick orange and bone paper.",
+  "icons": {
+    "128": "logo/logo.png"
+  },
+  "theme": {
+    "colors": {
+      "frame":                        [36, 28, 24],
+      "frame_inactive":               [46, 36, 29],
+      "toolbar":                      [90, 59, 46],
+      "tab_text":                     [245, 239, 226],
+      "bookmark_text":                [245, 239, 226],
+      "ntp_background":               [245, 239, 226],
+      "ntp_text":                     [43, 32, 26],
+      "ntp_link":                     [168, 73, 26],
+      "ntp_header":                   [232, 194, 122],
+      "button_background":            [232, 194, 122],
+      "button_background_secondary":  [217, 100, 42],
+      "omnibox_background":           [251, 246, 234],
+      "toolbar_button_icon":          [245, 239, 226]
+    },
+    "properties": {
+      "ntp_button_background":    [217, 100, 42],
+      "ntp_button_hover":         [180, 82, 15],
+      "ntp_logo_alternate":       1,
+      "ntp_single_row_shortcuts": true
+    },
+    "color_scheme": "light",
+    "default_color_scheme": "light"
+  }
+}
